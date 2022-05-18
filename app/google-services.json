@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209526481084",
+    "firebase_url": "https://mtaksi-639da.firebaseio.com",
+    "project_id": "mtaksi-639da",
+    "storage_bucket": "mtaksi-639da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209526481084:android:251e243cce3beed31830b9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209526481084-p1unbhb91vclsed3p46o5d9q7lolatn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "037c665b908c2f33db6dfeecb3aeb509fb0d1b6f"
+          }
+        },
+        {
+          "client_id": "209526481084-qe9i5acuo4r3islsn3nv3rqsjqjd347s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhYXPhxz0y0x3sVftvP4m0jKBN8lXwfz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209526481084-qe9i5acuo4r3islsn3nv3rqsjqjd347s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
